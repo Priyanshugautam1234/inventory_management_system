@@ -1,0 +1,24 @@
+# Python caches and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+sqlite.db
+
+# Node dependencies and build files
+node_modules/
+dist/
+build/
+.eslintcache
+
+# Environment configurations containing credentials
+.env
+.env.local
+.env.*.local
+
+# Operating system files
+.DS_Store
+Thumbs.db
