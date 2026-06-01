@@ -1,5 +1,5 @@
 // Fetch wrapper targeting backend API endpoints
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+const API_URL = "https://inventory-management-system-cwxx.onrender.com";
 
 async function handleResponse(response) {
   if (!response.ok) {
