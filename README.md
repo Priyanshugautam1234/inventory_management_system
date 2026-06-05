@@ -39,10 +39,7 @@ Make sure you have [Docker](https://www.docker.com/) and [Docker Compose](https:
    ```bash
    docker-compose up --build -d
    ```
-4. Access the applications:
-   - **Frontend UI:** [http://localhost:3000](http://localhost:3000)
-   - **Backend API:** [http://localhost:8000](http://localhost:8000)
-   - **API Swagger Documentation:** [http://localhost:8000/docs](http://localhost:8000/docs)
+
 
 ---
 
